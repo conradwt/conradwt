@@ -1,7 +1,5 @@
 ### Hi there, it's Conrad. 👋🏾
 
-Hi, I'm a software engineer that's originally from Chicago, Illinois. I have been developing software for several years and loving it.
-
 - 🔭 I’m currently working on adding Docker and Docker Compose to some of my Elixir and Ruby projects.
 - 🌱 I’m currently learning Elixir LiveView, Github Actions, and Kubernetes.
 - 👯 I’m looking to collaborate on creating GraphQL tutorial content for Rust, Elm, Scala, and Haskell.
