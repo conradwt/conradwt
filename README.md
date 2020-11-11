@@ -1,4 +1,4 @@
-### Hi there, it's Conrad. 👋
+### Hi there, it's Conrad. 👋🏾
 
 Hi, I'm a software engineer that's originally from Chicago, Illinois. I have been developing software for several years and loving it.
 
