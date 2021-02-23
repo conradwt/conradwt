@@ -9,14 +9,26 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I have a passion for cooking Indian food.
 
-You can follow me on https://twitter.com/conradwt[🐦 Twitter] and https://www.linkedin.com/in/conradwt[🖼 Linkedin], where I post about tech, open source, and, of course, Indian Food!
+<!-- Actual text -->
 
-++++
-<p align="center">
-  <a href="https://github.com/conradwt?tab=repositories">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=conradwt&layout=compact"
+You can follow me on [![Twitter][1.2]][1] and [![LinkedIn][2.2]][2] where I post about tech, open source, and, of course, Indian Food!
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://www.twitter.com/conradwt
+[2]: https://www.linkedin.com/in/conradwt
+
+<!-- Languages Used and Github stats -->
+
+<p align="center"><a href="https://github.com/conradwt?tab=repositories">
+    <img 
+      align="center" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=conradwt&layout=compact" 
     />
   </a>
   <a href="https://github.com/conradwt?tab=repositories">
@@ -27,4 +39,3 @@ You can follow me on https://twitter.com/conradwt[🐦 Twitter] and https://www.
     />
   </a>
 </p>
-++++
