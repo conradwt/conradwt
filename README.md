@@ -7,7 +7,7 @@
 - 💬 Ask me about cooking Indian food. 
 - 📫 How to reach me: [Email](mailto:conradwt@gmail.com), [Linkedin](https://www.linkedin.com/in/conradwt), or [Twitter](https://www.twitter.com/conradwt)
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I have a passion for cooking Indian food.
+- ⚡ Fun fact: I have a passion for cooking Indian and other foods.
 
 <!-- Actual text -->
 
