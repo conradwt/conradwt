@@ -29,7 +29,7 @@ You can follow me on [![Twitter][1.2]][1] and [![LinkedIn][2.2]][2] where I post
   <a href="https://github.com/conradwt?tab=repositories">
     <img 
       align="center" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=conradwt&layout=compact" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=conradwt&layout=compact&hide=Javascript,CSS" 
     >
   </a>
   <a href="https://github.com/conradwt?tab=repositories">
