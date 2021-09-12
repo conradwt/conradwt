@@ -11,7 +11,7 @@
 
 <!-- Actual text -->
 
-You can follow me on [![Twitter][1.2]][1] and [![LinkedIn][2.2]][2] where I post about tech, open source, and, of course, Indian and other foods!
+You can follow me on [![Twitter][1.2]][1] and [![LinkedIn][2.2]][2] where I post about tech, open source, and, of course, cooking Indian and other foods!
 
 <!-- Icons -->
 
