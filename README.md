@@ -1,17 +1,17 @@
 ### Hi there, it's Conrad. 👋🏾
 
-- 🔭 I’m currently working on adding Docker and Docker Compose to some of my Elixir and Ruby projects.
-- 🌱 I’m currently learning Elixir LiveView, Github Actions, and Kubernetes.
-- 👯 I’m looking to collaborate on creating GraphQL tutorial content for Rust, Elm, Scala, and Haskell.
-- 🤔 I’m looking for help with TBD.
-- 💬 Ask me about cooking Indian food. 
-- 📫 How to reach me: [Email](mailto:conradwt@gmail.com), [Linkedin](https://www.linkedin.com/in/conradwt), or [Twitter](https://www.twitter.com/conradwt)
-- 😄 Pronouns: he/him/his
+- 🔭 &nbsp;I’m currently working on adding Docker and Docker Compose to some of my Elixir and Ruby projects.
+- 🌱 &nbsp;I’m currently learning Elixir LiveView, Github Actions, and Kubernetes.
+- 👯 &nbsp;I’m looking to collaborate on creating GraphQL tutorial content for Rust, Elm, Scala, and Haskell.
+- 🤔 &nbsp;I’m looking for help with TBD.
+- 💬 &nbsp;Ask me about cooking Indian food. 
+- 📫 &nbsp;How to reach me: [Email](mailto:conradwt@gmail.com), [Linkedin](https://www.linkedin.com/in/conradwt), or [Twitter](https://www.twitter.com/conradwt)
+- 😄 &nbsp;Pronouns: he/him/his
 - ⚡ Fun fact: I have a passion for cooking Indian and other foods.
 
 <!-- Actual text -->
 
-You can follow me on [![Twitter][1.2]][1] and [![LinkedIn][2.2]][2] where I post about tech, open source, and, of course, Indian Food!
+You can follow me on [![Twitter][1.2]][1] and [![LinkedIn][2.2]][2] where I post about tech, open source, and, of course, Indian and other foods!
 
 <!-- Icons -->
 
