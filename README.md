@@ -29,12 +29,13 @@ You can follow me on [![Twitter][1.2]][1] and [![LinkedIn][2.2]][2] where I post
   <a href="https://github.com/conradwt?tab=repositories">
     <img 
       align="left" 
+      height="165"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=conradwt&layout=compact&hide=Javascript,CSS" 
     >
   </a>
   <a href="https://github.com/conradwt?tab=repositories">
     <img
-      align="left"
+      align="right"
       height="165"
       src="https://github-readme-stats.vercel.app/api?username=conradwt&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
     >
