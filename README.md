@@ -1,7 +1,7 @@
 ### Hi there, it's Conrad. 👋🏾
 
 - 🔭 &nbsp;I’m currently working on adding Docker and Docker Compose to my Elixir and Ruby projects.
-- 🌱 &nbsp;I’m currently learning Github Actions and Kubernetes.
+- 🌱 &nbsp;I’m currently learning Elixir, Github Actions, and Kubernetes.
 - 👯 &nbsp;I’m looking to collaborate on creating GraphQL tutorial content for Elm, Haskell, Scala, Python, and Rust.
 - 🤔 &nbsp;I’m looking for help with TBD.
 - 💬 &nbsp;Ask me about cooking Indian food. 
