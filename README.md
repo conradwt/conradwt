@@ -1,6 +1,6 @@
 ### Hi there, it's Conrad. 👋🏾
 
-- 🔭 &nbsp;I’m currently working on health and nutrition project to manage my day-to-day health and adding Docker and Github Workflows to my existing Elixir and Ruby projects.
+- 🔭 &nbsp;I’m currently working on health and nutrition project to manage my day-to-day health and adding Docker, Docker Compose, and Github Workflows to my existing Elixir and Ruby projects.
 - 🌱 &nbsp;I’m currently learning machine learning, Elixir, GraphQL, Github Actions, Docker, and Kubernetes.
 - 👯 &nbsp;I’m looking to collaborate on creating GraphQL tutorial content for Elm, Haskell, Python, Swift, and Rust.
 - 🤔 &nbsp;I’m looking for help with TBD.
