@@ -1,6 +1,6 @@
 ### Hi there, it's Conrad. 👋🏾
 
-- 🔭 &nbsp;I’m currently working on a nutrition app to manage my day-to-day health and adding authentication to GraphQL API endpoint.
+- 🔭 &nbsp;I’m currently working on a nutrition app to manage my day-to-day health.
 - 🌱 &nbsp;I’m currently learning machine learning (ML), Elixir, GraphQL, Github Actions, Docker, and Kubernetes.
 - 👯 &nbsp;I’m looking to collaborate on creating GraphQL tutorial content for Elm, Haskell, Python, Swift, and Rust.
 - 🤔 &nbsp;I’m looking for help with TBD.
