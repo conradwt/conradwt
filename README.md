@@ -1,7 +1,7 @@
 ### Hi there, it's Conrad. 👋🏾
 
 - 🔭 &nbsp;I’m currently working on a nutrition application to manage my day-to-day health and leveling up by learning machine learning (ML).
-- 🌱 &nbsp;I’m currently learning machine learning (ML), Elixir, GraphQL, Github Actions, Docker, and Kubernetes.
+- 🌱 &nbsp;I’m currently learning machine learning (ML), Wolfram Language, Elixir Language, GraphQL, Github Actions, Docker, and Kubernetes.
 - 👯 &nbsp;I’m looking to collaborate on creating GraphQL tutorial content for Elm, Haskell, F#, Python, Swift, and Rust.
 - 🤔 &nbsp;I’m looking for help with TBD.
 - 💬 &nbsp;Ask me about cooking Indian food. 
