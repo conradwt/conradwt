@@ -2,7 +2,7 @@
 
 - 🔭 &nbsp;I’m currently working on a health & nutrition app to manage my day to day health.
 - 🌱 &nbsp;I’m currently learning machine learning (ML), Wolfram Language, Elixir Language, GraphQL, DevOps, and Japanese.
-- 👯 &nbsp;I’m looking to collaborate on creating GraphQL tutorial content for Elm, Haskell, F#, Python, Swift, and Rust.
+- 👯 &nbsp;I’m looking to collaborate on creating GraphQL tutorial content for Elm, Haskell, F#, Scala, Python, Swift, and Rust.
 - 🤔 &nbsp;I’m looking for help with TBD.
 - 💬 &nbsp;Ask me about cooking Indian food. 
 - 📫 &nbsp;How to reach me: [Email](mailto:conradwt@gmail.com), [Linkedin](https://www.linkedin.com/in/conradwt), or [Twitter](https://www.twitter.com/conradwt)
