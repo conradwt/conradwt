@@ -1,6 +1,6 @@
 ### Hi there, it's Conrad. 👋🏾
 
-- 🔭 &nbsp;I’m currently working on a health & nutrition app, completing coursework, and completing reference project in SwiftUI.
+- 🔭 &nbsp;I’m currently working on a health & nutrition app, completing coursework, and working on reference project in SwiftUI.
 - 🌱 &nbsp;I’m currently learning machine learning (ML), Wolfram Language, Elixir Language, GraphQL, DevOps, and Japanese.
 - 👯 &nbsp;I’m looking to collaborate on creating GraphQL tutorial content for Elm, Haskell, F#, Scala, Python, Swift, and Rust.
 - 🤔 &nbsp;I’m looking for help with TBD.
