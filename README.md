@@ -1,6 +1,6 @@
 ### Hi there, it's Conrad. 👋🏾
 
-- 🔭 &nbsp;I’m currently working on a health & nutrition app and 100 Days of Apache Kafka.
+- 🔭 &nbsp;I’m currently working on a health & nutrition app, Kafka Streams course, and 100 Days of Apache Kafka.
 - 🌱 &nbsp;I’m currently learning machine learning (ML), Wolfram Language, Elixir Language, GraphQL, DevOps, and Japanese.
 - 👯 &nbsp;I’m looking to collaborate on creating GraphQL tutorial content for Elm, Haskell, F#, Scala, Python, Swift, and Rust.
 - 🤔 &nbsp;I’m looking for help with TBD.
@@ -11,8 +11,7 @@
 
 <!-- Actual text -->
 
-You can follow me on [![Twitter][1.2]][1] and [![LinkedIn][2.2]][2] where I post about tech, open source, and, of course, cooking Indian and other foods!
-
+You can follow me on [![Twitter][1.2]][1] and [![LinkedIn][2.2]][2] where I post about tech, open source, and, Kafka Streams course, and
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
