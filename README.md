@@ -11,7 +11,7 @@
 
 <!-- Actual text -->
 
-You can follow me on [![Twitter][1.2]][1] and [![LinkedIn][2.2]][2] where I post about tech, open source, and, Kafka Streams course, and
+You can follow me on [![Twitter][1.2]][1] and [![LinkedIn][2.2]][2] where I post about tech, open source, and cooking.
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
