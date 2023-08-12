@@ -1,6 +1,6 @@
 ### Hi there, it's Conrad. 👋🏾
 
-- 🔭 &nbsp;I’m currently working on a health & nutrition application and load testing.
+- 🔭 &nbsp;I’m currently working on a health & nutrition application, Grafana dashboards, and Grafana k6 load testing.
 - 🌱 &nbsp;I’m currently learning machine learning (ML), Wolfram Language, Elixir Language, GraphQL, DevOps, and Japanese.
 - 👯 &nbsp;I’m looking to collaborate on creating GraphQL tutorial content for Elm, Haskell, F#, Scala, Python, Swift, and Rust.
 - 🤔 &nbsp;I’m looking for help with TBD.
