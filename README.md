@@ -1,7 +1,7 @@
 ### Hi there, it's Conrad. 👋🏾
 
-- 🔭 &nbsp;I’m currently working on a health & nutrition application, Grafana dashboards and k6 load testing, Cilium, and Dockercoins app.
-- 🌱 &nbsp;I’m currently learning machine learning (ML), Wolfram Language, Elixir Language, GraphQL, DevOps, and Japanese.
+- 🔭 &nbsp;I’m currently working on a health & nutrition application and a Dockercoins Elixir app.
+- 🌱 &nbsp;I’m currently learning machine learning (ML), DevOps, Cilium, Grafana dashboards, and k6 load testing.
 - 👯 &nbsp;I’m looking to collaborate on creating GraphQL and gRPC tutorial content and projects for Elixir.
 - 🤔 &nbsp;I’m looking for help with TBD.
 - 💬 &nbsp;Ask me about cooking Indian food. 
