@@ -1,6 +1,6 @@
 ### Hi there, it's Conrad. 👋🏾
 
-- 🔭 &nbsp;I’m currently working on a health & nutrition application as well as learning about DevOps and LLMs.
+- 🔭 &nbsp;I’m currently working on a health & nutrition application as well as learning about DevOps, Argo CD, and LLMs.
 - 🌱 &nbsp;I’m currently learning machine learning (ML), DevOps, Cilium, Grafana dashboards, and k6 load testing.
 - 👯 &nbsp;I’m looking to collaborate on creating GraphQL and gRPC tutorial content and projects for Elixir.
 - 🤔 &nbsp;I’m looking for help with TBD.
