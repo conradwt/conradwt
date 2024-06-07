@@ -1,7 +1,7 @@
 ### Hi there, it's Conrad. 👋🏾
 
 - 🔭 &nbsp;I’m currently working on a health & nutrition application and ML/AI.
-- 🌱 &nbsp;I’m currently learning machine learning (ML), DevOps, and Grafana K6 Synthetic Monitoring. 
+- 🌱 &nbsp;I’m currently learning machine learning (ML), DevOps, and Kubernetes (K8s). 
 - 👯 &nbsp;I’m looking to collaborate on creating GraphQL and gRPC tutorial content and projects for Elixir.
 - 🤔 &nbsp;I’m looking for help with TBD.
 - 💬 &nbsp;Ask me about cooking Indian food. 
