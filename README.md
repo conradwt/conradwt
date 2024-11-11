@@ -1,6 +1,6 @@
 ### Hi there, it's Conrad. 👋🏾
 
-- 🔭 &nbsp;I’m currently working on a health & nutrition application, event-driven architectures (EDA), and DevOps.
+- 🔭 &nbsp;I’m currently working on a health & nutrition application, event-driven microservices architectures (EDMA), and DevOps.
 - 🌱 &nbsp;I’m currently learning iOS, machine learning (ML), Kubernetes (K8s), and DevOps. 
 - 👯 &nbsp;I’m looking to collaborate on creating GraphQL and gRPC tutorial content and projects for Elixir.
 - 🤔 &nbsp;I’m looking for help with TBD.
