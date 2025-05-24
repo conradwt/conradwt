@@ -1,6 +1,6 @@
 ### Hi there, it's Conrad. 👋🏾
 
-- 🔭 &nbsp;I’m currently working on a health & nutrition applications, event-driven microservices architectures (EDMA), and DevOps.
+- 🔭 &nbsp;I’m currently working on a health & nutrition application, event-driven microservices architectures (EDMA), and DevOps.
 - 🌱 &nbsp;I’m currently learning Phoenix Framework, Elixir, iOS, machine learning (ML), AI Agents, and DevOps. 
 - 👯 &nbsp;I’m looking to collaborate on creating GraphQL and gRPC tutorial content and projects for Elixir.
 - 🤔 &nbsp;I’m looking for help with TBD.
