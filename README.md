@@ -1,6 +1,6 @@
 ### Hi there, it's Conrad. 👋🏾
 
-- 🔭 &nbsp;I’m currently working on a health & nutrition application.
+- 🔭 &nbsp;I’m currently working on a health & nutrition mibile and web application.
 - 🌱 &nbsp;I’m currently learning Phoenix Framework, Elixir, iOS/macOS development, Prompt Engineering, AI Agents, Agentic Development, and DevOps. 
 - 👯 &nbsp;I’m looking to collaborate on creating GraphQL and gRPC tutorial content and projects for Elixir.
 - 🤔 &nbsp;I’m looking for help with TBD.
